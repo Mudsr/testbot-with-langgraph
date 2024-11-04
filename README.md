@@ -3,8 +3,6 @@ This is a test bot created using langgraph and it uses more than one agent at th
 
 - **Multi-Agent System**: Utilizes multiple agents simultaneously for enhanced performance.
 - **LangGraph Integration**: Leverages LangGraph for efficient language processing.
-- **Extensible**: Easily add new agents or modify existing ones.
-- **Scalable**: Designed to handle increasing workloads seamlessly.
 
 ## Installation
 
